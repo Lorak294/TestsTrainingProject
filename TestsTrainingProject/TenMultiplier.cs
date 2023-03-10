@@ -5,6 +5,7 @@
         public static int MultiplyBy10(int num)
         {
             //return num * 10;
+
             return num;
         }
     }
